@@ -1,0 +1,13 @@
+{
+    "name": "mosen/munkireport-ard",
+    "description": "Apple Remote Desktop plugin for MunkiReport",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mosen",
+            "email": "mosen@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
